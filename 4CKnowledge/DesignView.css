@@ -1,0 +1,12 @@
+header,footer{
+    padding: 1em;
+    color: white;
+    background-color: #0636e5;
+    clear: left;
+    text-align: center;
+}
+
+h3{
+	color:green;
+	text-align:center;
+}

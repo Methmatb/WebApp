@@ -1,0 +1,47 @@
+div.container {
+	height:100%;
+    width: 100%;
+    margin-left:40%;
+
+	resize:none;
+	
+}
+body{
+	background-image: url("Images/Login_Books.png");
+	background-position:auto;
+	background-size:40%;
+	background-repeat:no-repeat;
+}
+
+header,footer{
+    padding: 1em;
+    color: white;
+    background-color: #0636e5;
+    clear: left;
+    text-align: center;
+}
+
+table{
+	
+}
+
+
+input[type="text"],input[type="date"],input[type="password"]{
+	width: 100%;
+	height:1em;
+	font-size:1em;
+}
+input[type="submit"],input[type="Reset"],input[type="button"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+    opacity: 0.9;
+}
+td{
+	font-size:1em;
+} 
+
+
